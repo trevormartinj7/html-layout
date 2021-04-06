@@ -51,3 +51,29 @@
     margin: 25px 0px 0px 50px;
     box-shadow: 5px 10px #888888;
 }
+
+.bottom{
+    display: flex;
+    border: 1px solid black;
+    height: 225px;
+    width: 550px;
+    box-shadow: 5px 10px #888888;
+    margin-left: 125px;
+    flex-direction: column;
+
+}
+
+.word{
+    margin-top: 80px;
+    text-align: center;
+    font-size:xx-large;
+    color: rgb(56, 56, 148);
+}
+
+.words{
+    font-size: xx-large;
+    text-align: center;
+    color: rgb(56, 56, 148);
+    
+
+}
