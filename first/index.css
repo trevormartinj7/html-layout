@@ -1,0 +1,35 @@
+.header{
+    background-color: rgb(51, 51, 51);
+    width: 1000px;
+    height: 90px;
+}
+
+.body{
+    display: flex;
+}
+
+.left{
+    background-color: darkgray;
+    width: 200px;
+    height: 800px;
+}
+
+.middle{
+    display: flex;
+    width: 600px;
+    height: 900px;
+    flex-direction: column;
+}
+
+.footer{
+    margin-top: 755px;
+    background-color: rgb(51, 51, 51);
+    height: 45px;
+}
+
+
+.right{
+    background-color: darkgray;
+    width: 200px;
+    height: 800px;
+}
