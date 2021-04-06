@@ -1,0 +1,50 @@
+.top{
+    background-color: grey;
+    width:500px;
+    height: 100px;
+}
+
+.square{
+    height: 80px;
+    width: 80px;
+    background-color: blue;
+    margin-left: 10px;
+}
+
+.text{
+    width: 450px;
+    margin-left: 25px;
+}
+
+.colors{
+    background-color: burlywood;
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    width: 500px;
+}
+
+.blue{
+ background-color: blue;
+ height: 100px;
+ width: 500px;
+}
+
+.teal{
+    background-color: teal;
+    height: 100px;
+    width: 500px;
+}
+
+.green{
+    background-color: green;
+    height: 100px;
+    width: 500px;
+}
+
+.yellow{
+    background-color: yellow;
+    height: 100px;
+    width: 500px;
+}
+
