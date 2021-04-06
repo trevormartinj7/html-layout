@@ -1,4 +1,5 @@
 .top{
+    display: flex;
     background-color: grey;
     width:500px;
     height: 100px;
@@ -8,6 +9,7 @@
     height: 80px;
     width: 80px;
     background-color: blue;
+    margin-top: 10px;
     margin-left: 10px;
 }
 
@@ -17,7 +19,7 @@
 }
 
 .colors{
-    background-color: burlywood;
+    background-color: rgb(146, 113, 70);
     display: flex;
     flex-direction: column;
     height: 400px;
