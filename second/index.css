@@ -1,0 +1,53 @@
+.body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.top{
+    border-color: black;
+    border: 5px solid black;
+    width: 800px;
+    height: 200px;
+}
+
+.purple{
+    float: left;
+    background-color: purple;
+    height: 150px;
+    width: 50px;
+    margin: 40px 30px 0px 10px;
+}
+
+.green{
+    float: left;
+    background-color: green;
+    height: 180px;
+    width: 300px;
+    margin: 10px 30px 10px 30px;
+
+}
+
+.blue{
+    background-color: lightblue;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: 20px 0px 0px 500px;
+}
+
+.middle{
+    border-style: dotted;
+    height: 200px;
+    width: 800px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.shadow-square{
+    background-color: bisque;
+    height: 150px;
+    width: 700px;
+    margin: 25px 0px 0px 50px;
+    box-shadow: 5px 10px #888888;
+}
